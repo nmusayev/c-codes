@@ -1,0 +1,3 @@
+/Users/nadir/Desktop/c projects/q5164_5_6_2025/cmake-build-debug/CMakeFiles/q5164_5_6_2025.dir
+/Users/nadir/Desktop/c projects/q5164_5_6_2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nadir/Desktop/c projects/q5164_5_6_2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
