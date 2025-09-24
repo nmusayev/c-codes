@@ -1,0 +1,3 @@
+/Users/nadir/Desktop/c projects/165a1_23_9_2025/cmake-build-debug/CMakeFiles/165a1_23_9_2025.dir
+/Users/nadir/Desktop/c projects/165a1_23_9_2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nadir/Desktop/c projects/165a1_23_9_2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
