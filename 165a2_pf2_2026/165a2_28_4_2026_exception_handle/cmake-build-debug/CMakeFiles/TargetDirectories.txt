@@ -1,0 +1,3 @@
+/Users/nadir/Desktop/c projects/165a2_28_4_2026_exception_handle/cmake-build-debug/CMakeFiles/165a2_28_4_2026_exception_handle.dir
+/Users/nadir/Desktop/c projects/165a2_28_4_2026_exception_handle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nadir/Desktop/c projects/165a2_28_4_2026_exception_handle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
